@@ -1,0 +1,7 @@
+{
+  "name": "Macha – Stress Relief  Friend",
+  "description": "An AI chatbot that helps college students relax, laugh, and talk about their stress in a safe and friendly environment using Thanglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
