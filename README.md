@@ -1,30 +1,4 @@
 # Macha-ai-mental-health-chatbot
-https://in.pinterest.com/rasthikg/hd-movies/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 AI mental health chatbot for students with Thanglish conversations, stress-relief games, screening tools, and counselling support.
 Macha AI 🤖💙
